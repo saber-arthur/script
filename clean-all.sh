@@ -1,2 +1,2 @@
-~/scripts/clean_packages.sh
-~/scripts/clean_up_old_kernel.sh
+./clean-packages.sh
+./clean-up-old-kernel.sh
