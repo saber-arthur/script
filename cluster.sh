@@ -1,9 +1,9 @@
 #!/usr/bin/expect -f
 
-spawn ssh glade.eng.ucmerced.edu
+spawn ssh ***.**.***
 
 expect "$"
 
-send  "cd /home/chengjie/Code/GLADE-Array/GLADE/src \r"
+send  "cd /home/ \r"
 
 interact
